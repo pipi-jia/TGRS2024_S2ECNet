@@ -54,7 +54,7 @@ datasets
 
 ```
 
-Thanks to YuxiangZhang for his contribution, You can download [Houston &amp; Pavia](https://github.com/YuxiangZhang-BIT/Data-CSHSI) dataset here.
+Thanks to Yuxiang Zhang for his contribution, You can download [Houston &amp; Pavia](https://github.com/YuxiangZhang-BIT/Data-CSHSI) dataset here.
 
 
 ## Run a Model:
